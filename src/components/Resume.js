@@ -145,7 +145,7 @@ const Resume = () => {
                 }}
               >
                 <iframe
-                  src="/files/Tamima_CV.pdf"
+                  src="https://tairatuljannat.github.io/portfolio/files/Tamima_CV.pdf"
                   width="100%"
                   height="100%"
                   title="CV Preview"
