@@ -138,7 +138,7 @@ const About = () => {
                   }}
                 >
                   <Avatar
-                    src="/images/propic.jpg"
+                    src="https://TairatulJannat.github.io/portfolio/images/propic.jpg"
                     alt="Profile"
                     sx={{
                       width: 150,
