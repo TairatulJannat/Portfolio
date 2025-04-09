@@ -87,7 +87,7 @@ const Home = () => {
             >
               <Box
                 component="img"
-                src="/images/profile_picture.jpg"
+                src="https://tairatuljannat.github.io/portfolio/images/propic.jpg"
                 alt="Tairatul Jannat Tamima"
                 sx={{
                   width: '100%',
